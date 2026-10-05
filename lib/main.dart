@@ -286,7 +286,7 @@ class _EmptyCollection extends StatelessWidget {
                 if (!compact) ...[
                   const SizedBox(height: 8),
                   const Text(
-                    'Add a movie to begin building your collection.',
+                    'Add a cool new movie to begin building your collection.',
                     style: TextStyle(color: Color(0xFF687369)),
                   ),
                   const SizedBox(height: 20),
